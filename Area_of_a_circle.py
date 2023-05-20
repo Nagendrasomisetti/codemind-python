@@ -1,3 +1,3 @@
-a = float(input())
-b=3.14*a*a
-print("%.2f"%round(b,2))
+x=int(input())
+y=3.14*x*x
+print(round(y,2))
